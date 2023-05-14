@@ -1,0 +1,13 @@
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.vbproj.AssemblyReference.cache
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice_programe.Resources.resources
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.vbproj.GenerateResource.cache
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.vbproj.CoreCompileInputs.cache
+C:\Users\Khale\source\repos\invoice programe\invoice programe\bin\Debug\invoice programe.exe.config
+C:\Users\Khale\source\repos\invoice programe\invoice programe\bin\Debug\invoice programe.exe
+C:\Users\Khale\source\repos\invoice programe\invoice programe\bin\Debug\invoice programe.pdb
+C:\Users\Khale\source\repos\invoice programe\invoice programe\bin\Debug\invoice programe.xml
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice_programe.Form1.resources
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.exe
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.xml
+C:\Users\Khale\source\repos\invoice programe\invoice programe\obj\Debug\invoice programe.pdb
